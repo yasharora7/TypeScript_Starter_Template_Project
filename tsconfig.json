@@ -112,7 +112,7 @@
   },
   "include": [
     "src/**/*"
-  ],
+, "src/routers/v2"  ],
   "exclude": [
     "node_modules",
 
